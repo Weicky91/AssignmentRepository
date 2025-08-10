@@ -1,0 +1,3 @@
+D:/2025ROBOT/8.10/AssignmentWork/queue_stack/build/CMakeFiles/queue_stack.dir
+D:/2025ROBOT/8.10/AssignmentWork/queue_stack/build/CMakeFiles/edit_cache.dir
+D:/2025ROBOT/8.10/AssignmentWork/queue_stack/build/CMakeFiles/rebuild_cache.dir

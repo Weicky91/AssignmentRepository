@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/2025ROBOT/8.10/AssignmentWork/queue_stack/build",
+  "command": "D:\\MICROS~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/queue_stack.dir/includes_C.rsp -g -o CMakeFiles\\queue_stack.dir\\src\\main.c.obj -c D:\\2025ROBOT\\8.10\\AssignmentWork\\queue_stack\\src\\main.c",
+  "file": "D:/2025ROBOT/8.10/AssignmentWork/queue_stack/src/main.c",
+  "output": "CMakeFiles/queue_stack.dir/src/main.c.obj"
+},
+{
+  "directory": "D:/2025ROBOT/8.10/AssignmentWork/queue_stack/build",
+  "command": "D:\\MICROS~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/queue_stack.dir/includes_C.rsp -g -o CMakeFiles\\queue_stack.dir\\src\\queue.c.obj -c D:\\2025ROBOT\\8.10\\AssignmentWork\\queue_stack\\src\\queue.c",
+  "file": "D:/2025ROBOT/8.10/AssignmentWork/queue_stack/src/queue.c",
+  "output": "CMakeFiles/queue_stack.dir/src/queue.c.obj"
+},
+{
+  "directory": "D:/2025ROBOT/8.10/AssignmentWork/queue_stack/build",
+  "command": "D:\\MICROS~1\\mingw64\\bin\\gcc.exe  @CMakeFiles/queue_stack.dir/includes_C.rsp -g -o CMakeFiles\\queue_stack.dir\\src\\stack.c.obj -c D:\\2025ROBOT\\8.10\\AssignmentWork\\queue_stack\\src\\stack.c",
+  "file": "D:/2025ROBOT/8.10/AssignmentWork/queue_stack/src/stack.c",
+  "output": "CMakeFiles/queue_stack.dir/src/stack.c.obj"
+}
+]

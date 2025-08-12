@@ -1,0 +1,13 @@
+build-gen-idx:
+  generated-by: uVision version 5.40.0.0
+  generators:
+    - board: ""
+      device: STM32F405RGTx
+      id: CubeMX
+      output: D:/2025ROBOT/8.12/8.12WORK/MDK-ARM/STM32CubeMX/8.12WORK/
+      project-type: single-core
+      cbuild-gens:
+        - cbuild-gen: D:/2025ROBOT/8.12/8.12WORK/MDK-ARM/8.12WORK.8.12WORK.cbuild-gen.yml
+          configuration: .8.12WORK
+          name: D:/2025ROBOT/8.12/8.12WORK/MDK-ARM/STM32CubeMX/8.12WORK/8.12WORK.cgen.yml
+          project: 8.12WORK

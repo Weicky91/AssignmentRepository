@@ -1,0 +1,5 @@
+load STM32F405RGTx
+project name STM32CubeMX
+project toolchain "MDK-ARM V5"
+project path "D:\2025ROBOT\8.12\8.12WORK\MDK-ARM\STM32CubeMX\8.12WORK"
+SetCopyLibrary "copy only"
